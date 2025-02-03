@@ -1,0 +1,205 @@
+﻿@using shop_ASP_CORE_MVC.Models.CartItemViewModel
+@model CartItemViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h1>Giỏ hàng</h1>
+@{
+}
+<style>
+
+    .cart_product {
+        width: 200px;
+    }
+
+    .cart_info table {
+        width: 100%; /* Đảm bảo bảng chiếm toàn bộ chiều rộng */
+        table-layout: fixed; /* Cố định bố cục bảng */
+    }
+
+    .cart_info th, .cart_info td {
+        text-align: center; /* Căn giữa nội dung để bố cục gọn gàng */
+        vertical-align: middle; /* Căn nội dung theo chiều dọc */
+        word-wrap: break-word; /* Đảm bảo chữ không tràn ra khỏi ô */
+    }
+
+    .cart_menu td.image {
+        width: 20%
+    }
+
+    .cart_menu td.description {
+        width: 30% /* Chiều rộng cho cột mô tả */
+    }
+
+    .cart_menu td.price {
+        width: 15%;
+    }
+
+    .cart_menu td.quantity {
+        width: 22%;
+    }
+
+    .cart_menu td.total {
+        width: 15%; /* Chiều rộng bằng nhau cho cột giá, số lượng và tổng */
+    }
+
+
+    .cart_product img {
+        width: 100%; /* Đảm bảo hình ảnh vừa với ô */
+        height: auto; /* Giữ tỷ lệ hình ảnh */
+        object-fit: cover; /* Cắt hình ảnh đồng nhất nếu cần */
+    }
+
+    .custom-gradient {
+        background: linear-gradient(45deg, #ff7e5f, #feb47b);
+        border: none;
+        color: white;
+        font-weight: bold;
+    }
+
+        .custom-gradient:hover {
+            background: linear-gradient(45deg, #feb47b, #ff7e5f);
+        }
+
+    .grand_product {
+        text-align: right; /* Căn nội dung sang bên phải */
+        font-size: 2rem; /* Tăng cỡ chữ */
+        font-weight: bold; /* Làm đậm chữ */
+        padding-right: 15px; /* Thêm khoảng cách bên phải */
+        color: #333; /* Màu chữ (tuỳ chỉnh nếu cần) */
+    }
+
+</style>
+
+<section id="cart_items">
+    <div class="container">
+        <div class="breadcrumbs">
+            <ol class="breadcrumb">
+                <li><a href="#">Home</a></li>
+                <li class="active">Shopping Cart</li>
+            </ol>
+        </div>
+        <div class="table-responsive cart_info">
+            <table class="table table-condensed">
+                <thead>
+                    <tr class="cart_menu">
+                        <td class="image">Item</td>
+                        <td class="description"></td>
+                        <td class="price">Price</td>
+                        <td class="quantity">Quantity</td>
+                        <td class="total">Total</td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.CartItems != null && Model.CartItems.Count > 0)
+                    {
+                        @foreach (var item in Model.CartItems)
+                        {
+                            <tr>
+                                <td class="cart_product">
+                                    <a href=""><img src="~/images/product-details/@item.Image" alt="" style="width:150px; height:auto; object-fit: cover"></a>
+                                </td>
+                                <td class="cart_description">
+                                    <h4><a href="">@item.ProductName</a></h4>
+
+                                </td>
+                                <td class="cart_price">
+                                    <p>@item.Price</p>
+                                </td>
+                                <td class="cart_quantity">
+
+                                    <div class="cart-actions">
+                                        <!-- Nút tăng số lượng -->
+                                        
+                                        <a class="btn custom-gradient btn-sm"
+                                           asp-controller="Cart"
+                                           asp-action="Increase"
+                                           asp-route-Id="@item.ProductId">
+                                            +
+                                        </a>
+
+                                        <!-- Ô nhập số lượng -->
+                                        <input class="cart_quantity_input"
+                                               type="text"
+                                               name="quantity"
+                                               value="@item.Quantity"
+                                               autocomplete="off"
+                                               size="2" />
+
+                                               
+                                        <!-- Nút giảm số lượng -->
+                                        <a class="btn btn-success btn-sm"
+                                           asp-controller="Cart"
+                                           asp-action="Decrease"
+                                           asp-route-Id="@item.ProductId">
+                                            -
+                                        </a>
+                                        <a class="btn btn-danger btn-sm"
+                                           asp-controller="Cart"
+                                           asp-action="Remove"
+                                           asp-route-id="@item.ProductId">
+                                            Remove
+                                        </a>
+
+                                        <!-- Nút xóa sản phẩm -->
+                                     
+
+
+
+                                    </div>
+                                </td>
+                                <td class="cart_total">
+                                    <p class="cart_total_price">@Model.CartItems.Where(x => x.ProductId == @item.ProductId).Sum(x => x.Quantity * x.Price).ToString()</p>
+
+
+                                </td>
+
+
+                            </tr>
+                        }
+                        <tr class="grand_product">
+                            <td colspan="4">
+                                Tổng tiền: @Model.GrandTotal.ToString()
+                            </td>
+                            <td>
+                                <a class="btn btn-danger btn-sm"
+                                   asp-controller="Cart"
+                                   asp-action="Clear" style="font-size: 1.5rem;">
+                                    Clear
+                                </a>
+                            </td>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <td>
+                                    <a class="btn btn-danger btn-sm"
+                                       asp-controller="Checkout"
+                                       asp-action="Checkout" style="font-size: 1.5rem;">
+                                        Checkout
+                                    </a>
+                                </td>
+                            }
+                            else
+                            {
+                                <td>
+                                    <a class="btn btn-danger btn-sm"
+                                       asp-controller="Account"
+                                       asp-action="Index" style="font-size: 1.5rem;">
+                                        Checkout
+                                    </a>
+                                </td>
+                            }
+                        </tr>
+
+                       
+
+                    }
+                    else
+                    {
+                        <tr><td colspan="5"> <h4>Giỏ hàng trống</h4></td></tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section> <!--/#cart_items-->

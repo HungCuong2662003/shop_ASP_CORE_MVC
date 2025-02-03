@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\shop_ASP_CORE_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\shop_ASP_CORE_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\Backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\site.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\404\\404.png",
+      "PackagePath": "staticwebassets\\images\\404\\404.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\blog\\blog-one.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-one.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\blog\\blog-three.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-three.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\blog\\blog-two.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-two.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\blog\\man-four.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-four.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\blog\\man-one.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-one.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\blog\\man-three.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-three.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\blog\\man-two.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-two.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\blog\\socials.png",
+      "PackagePath": "staticwebassets\\images\\blog\\socials.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\cart\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\cart\\1.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\cart\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\cart\\2.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\1.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\2.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\logo.png",
+      "PackagePath": "staticwebassets\\images\\home\\logo.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\map.png",
+      "PackagePath": "staticwebassets\\images\\home\\map.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\new.png",
+      "PackagePath": "staticwebassets\\images\\home\\new.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\partner1.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner1.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\partner2.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner2.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\partner3.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner3.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\partner4.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner4.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\pricing.png",
+      "PackagePath": "staticwebassets\\images\\home\\pricing.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\sale.png",
+      "PackagePath": "staticwebassets\\images\\home\\sale.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\home\\searchicon.png",
+      "PackagePath": "staticwebassets\\images\\home\\searchicon.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\0114326d-f60b-4985-9219-d8a2c2bd3c37_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\0114326d-f60b-4985-9219-d8a2c2bd3c37_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\19c4e8a7-7029-4b39-88c9-b7098ded65bd_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\19c4e8a7-7029-4b39-88c9-b7098ded65bd_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\2.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\6b05570b-9f61-47b4-b5ea-d70157f0e21e_2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\6b05570b-9f61-47b4-b5ea-d70157f0e21e_2.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\9808ae18-6696-46f2-a2d2-cb94c337b477_6b05570b-9f61-47b4-b5ea-d70157f0e21e_2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\9808ae18-6696-46f2-a2d2-cb94c337b477_6b05570b-9f61-47b4-b5ea-d70157f0e21e_2.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\c2dc9918-b4d5-4daa-b9e3-2d491d1ed3a5_19c4e8a7-7029-4b39-88c9-b7098ded65bd_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\c2dc9918-b4d5-4daa-b9e3-2d491d1ed3a5_19c4e8a7-7029-4b39-88c9-b7098ded65bd_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\d453bce8-d8ff-4b6a-b4e6-61df88d3a02f_pc_gvn_rx6600_-_3_762ba90a94904a50809a93355cd819a7_grande.webp",
+      "PackagePath": "staticwebassets\\images\\product-details\\d453bce8-d8ff-4b6a-b4e6-61df88d3a02f_pc_gvn_rx6600_-_3_762ba90a94904a50809a93355cd819a7_grande.webp"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\f4511fce-b70b-4c8d-a5a7-31f570d93eca_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\f4511fce-b70b-4c8d-a5a7-31f570d93eca_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\ff7379f8-2f54-4513-a2ce-ad5680e50059_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\ff7379f8-2f54-4513-a2ce-ad5680e50059_imac-24-inch-m4-xanh-la-thumb-1-1-600x600.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\new.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\new.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\rating.png",
+      "PackagePath": "staticwebassets\\images\\product-details\\rating.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\product-details\\share.png",
+      "PackagePath": "staticwebassets\\images\\product-details\\share.png"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\shop\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\advertisement.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\shop\\product10.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product10.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\shop\\product11.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product11.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\shop\\product12.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product12.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\shop\\product7.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product7.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\shop\\product8.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product8.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\images\\shop\\product9.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product9.jpg"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.shop_ASP_CORE_MVC.props",
+      "PackagePath": "build\\shop_ASP_CORE_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.shop_ASP_CORE_MVC.props",
+      "PackagePath": "buildMultiTargeting\\shop_ASP_CORE_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.shop_ASP_CORE_MVC.props",
+      "PackagePath": "buildTransitive\\shop_ASP_CORE_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.shop_ASP_CORE_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

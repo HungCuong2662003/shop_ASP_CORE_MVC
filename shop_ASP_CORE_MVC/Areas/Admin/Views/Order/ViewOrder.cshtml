@@ -1,0 +1,39 @@
+﻿@model IEnumerable<OrderDetailModel>
+@{
+    ViewData["title"] = "Order Details";
+}
+<h2>Thông tin danh mục sản phẩm</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">STT</th>
+            <th scope="col">Order Code</th>
+            <th scope="col">User Name</th>
+            <th scope="col">Product image</th>
+            <th scope="col">Product Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.OrderCode</td>
+                <td>@item.UserName</td>
+                <td>
+                    <img src="/images/product-details/@item.Product.Image" width="120" alt="Product Image">
+                </td>
+                <td>@item.Product.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Quantity</td>
+              
+               
+            </tr>
+        }
+    </tbody>
+
+</table>

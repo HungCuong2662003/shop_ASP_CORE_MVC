@@ -1,0 +1,50 @@
+﻿
+@model IEnumerable<ProductModel>
+<div class="col-sm-3">
+	@Html.Partial("_SlideBarPatial")
+</div>
+<style>
+	.product-image-wrapper{
+		height:450px;
+	}
+</style>
+<div class="col-sm-9 padding-right">
+	<div class="features_items">
+		<!--features_items-->
+		<h2 class="title text-center">Features Items</h2>
+		<!--lap lai du lieu o 4 cot-->
+		@foreach (var item in Model)
+		{
+			<div class="col-sm-4">
+				<div class="product-image-wrapper" >
+					<div class="single-products">
+						
+						<div class="productinfo text-center">
+							<a asp-action="Detail" asp-controller="Product" asp-route-Id="@item.Id">
+								<img src="~/images/product-details/@item.Image" alt="@item.Name" width="100%" />
+								<h2>Giá: @item.Price</h2>
+								<p> @item.Name</p>
+								<p>Danh mục: @item.Category.Name</p>
+								<p>Thương hiệu: @item.Brand.Name</p>
+							</a>
+							<a asp-action="Add" asp-controller="Cart" asp-route-Id="@item.Id" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Thêm vào giỏ hàng</a>
+						</div>
+				@* 		 <div class="product-overlay">
+						 	<div class="overlay-content">
+						 		<h2>Giá: @item.Price</h2>
+						 		<p>Tên: @item.Name</p>
+						 		<p>Mô tả: @item.Category.Description</p>
+						 		<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+						 	</div>
+						</div>*@
+						 
+					</div>
+					
+				</div>
+			</div>
+		}
+
+	</div><!--features_items-->
+
+
+</div>
