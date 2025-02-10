@@ -4,13 +4,13 @@ namespace shop_ASP_CORE_MVC.Models
 {
 	public class BrandModel
 	{
-		[Key]
 		public int Id { get; set; }
-		[Required, MinLength(4, ErrorMessage = "Hay nhap ten thuong hieu")]
+		[Required(ErrorMessage = "Yêu cầu không được bỏ trống tên thương hiệu")]
 		public string Name { get; set; }
-		[Required, MinLength(4, ErrorMessage = "Hay nhap ten mo ta thuong hieu")]
+		[Required(ErrorMessage = "Yêu cầu không được bỏ trống mô tả")]
 		public string Description { get; set; }
 		public string Slug { get; set; }
-		public int status { get; set; }
+		public int? Status { get; set; }
+
 	}
 }

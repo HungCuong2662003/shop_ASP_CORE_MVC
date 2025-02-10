@@ -1,70 +1,85 @@
 ﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using shop_ASP_CORE_MVC.Models;
 using shop_ASP_CORE_MVC.Repository;
-using System.Text.RegularExpressions;
 
 namespace shop_ASP_CORE_MVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
+    [Route("Admin/Brand")]
+    [Authorize(Roles = "Publisher,Author,Admin")]
     public class BrandController : Controller
     {
         private readonly DataContext _dataContext;
-
-
-        // Constructor: Inject DataContext
-        public BrandController(DataContext dataContext)
+        public BrandController(DataContext context)
         {
-            _dataContext = dataContext;
-
+            _dataContext = context;
         }
-        public async Task<IActionResult> Index()
-        {
-            return View(await _dataContext.Brands.OrderBy(x => x.Id).ToListAsync());
 
+        //[Route("Index")]
+        //public async Task<IActionResult> Index()
+        //{
+        //	return View(await _dataContext.Brands.OrderByDescending(p => p.Id).ToListAsync());
+        //}
+
+        [Route("Index")]
+        public async Task<IActionResult> Index(int pg = 1)
+        {
+            List<BrandModel> brand = _dataContext.Brands.ToList();
+
+
+            const int pageSize = 10;
+
+            if (pg < 1)
+            {
+                pg = 1;
+            }
+            int recsCount = brand.Count();
+
+            var pager = new Paginate(recsCount, pg, pageSize);
+
+            int recSkip = (pg - 1) * pageSize;
+
+            var data = brand.Skip(recSkip).Take(pager.PageSize).ToList();
+
+            ViewBag.Pager = pager;
+
+            return View(data);
         }
-        public IActionResult Add()
-        {
 
+        [Route("Create")]
+
+        public IActionResult Create()
+        {
             return View();
         }
+
+        [Route("Create")]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Add(BrandModel Brand)
+        public async Task<IActionResult> Create(BrandModel brand)
         {
-
-
             if (ModelState.IsValid)
             {
-                // Tạo slug cho sản phẩm
-                Brand.Slug = Brand.Name.Replace(" ", "-").ToLower();
-                // Loại bỏ tất cả thẻ HTML từ Description
-                Brand.Description = Regex.Replace(Brand.Description, "<.*?>", string.Empty);
-                // Kiểm tra trùng Slug trong database
-                var slug = await _dataContext.Products.FirstOrDefaultAsync(p => p.Slug == Brand.Slug);
+                brand.Slug = brand.Name.Replace(" ", "-");
+                var slug = await _dataContext.Brands.FirstOrDefaultAsync(p => p.Slug == brand.Slug);
                 if (slug != null)
                 {
-                    ModelState.AddModelError("", "Sản phẩm đã có trong database");
-                    return View(Brand);
+                    ModelState.AddModelError("", "Danh mục đã có trong database");
+                    return View(brand);
                 }
 
-
-
-                _dataContext.Add(Brand);
+                _dataContext.Add(brand);
                 await _dataContext.SaveChangesAsync();
-                TempData["success"] = "Thêm danh mục sản phẩm thành công";
+                TempData["success"] = "Thêm thương hiệu thành công";
                 return RedirectToAction("Index");
+
             }
             else
             {
-                TempData["error"] = "Model có một vài thứ đang bị lỗi.";
+                TempData["error"] = "Model có một vài thứ đang lỗi";
                 List<string> errors = new List<string>();
-
-                // Thu thập tất cả lỗi từ ModelState
                 foreach (var value in ModelState.Values)
                 {
                     foreach (var error in value.Errors)
@@ -72,96 +87,61 @@ namespace shop_ASP_CORE_MVC.Areas.Admin.Controllers
                         errors.Add(error.ErrorMessage);
                     }
                 }
-
-                // Kết hợp lỗi thành một chuỗi
                 string errorMessage = string.Join("\n", errors);
-
-                // Trả về BadRequest với thông báo lỗi
                 return BadRequest(errorMessage);
             }
+            return View(brand);
         }
+
+        [Route("Edit")]
         public async Task<IActionResult> Edit(int Id)
         {
-            // Tìm sản phẩm theo ID
-            BrandModel Brand = await _dataContext.Brands.FindAsync(Id);
-
-            if (Brand == null)
-            {
-                // Nếu không tìm thấy sản phẩm, trả về 404
-                return NotFound();
-            }
-
-            return View(Brand);
+            BrandModel brand = await _dataContext.Brands.FindAsync(Id);
+            return View(brand);
         }
 
+        [Route("Edit")]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, BrandModel Brand)
+        public async Task<IActionResult> Edit(BrandModel brand)
         {
-            // Lấy sản phẩm hiện tại từ cơ sở dữ liệu
-            var existingBrand = await _dataContext.Brands.AsNoTracking().FirstOrDefaultAsync(p => p.Id == id);
-
-            if (existingBrand == null)
-            {
-                TempData["error"] = "Sản phẩm không tồn tại.";
-                return RedirectToAction("Index");
-            }
-            // Loại bỏ tất cả thẻ HTML từ Description
-            Brand.Description = Regex.Replace(Brand.Description, "<.*?>", string.Empty);
-
-
             if (ModelState.IsValid)
             {
-                // Tạo slug cho sản phẩm
-                Brand.Slug = Brand.Name.Replace(" ", "-").ToLower();
-
-                // Kiểm tra trùng Slug trong database (trừ sản phẩm hiện tại)
-                var slugExists = await _dataContext.Products
-                    .AnyAsync(p => p.Slug == Brand.Slug && p.Id != id);
-
-                if (slugExists)
-                {
-                    ModelState.AddModelError("Slug", "Slug này đã tồn tại, vui lòng chọn tên khác.");
-                    return View(Brand);
-                }
-
-
-
-                _dataContext.Update(Brand);
+                brand.Slug = brand.Name.Replace(" ", "-");
+                _dataContext.Update(brand);
                 await _dataContext.SaveChangesAsync();
-
-                TempData["success"] = "Cập nhật sản phẩm thành công.";
+                TempData["success"] = "Cập nhật thương hiệu thành công";
                 return RedirectToAction("Index");
-            }
 
-            TempData["error"] = "Model có một vài thứ đang bị lỗi.";
-            return View(Brand);
+            }
+            else
+            {
+                TempData["error"] = "Model có một vài thứ đang lỗi";
+                List<string> errors = new List<string>();
+                foreach (var value in ModelState.Values)
+                {
+                    foreach (var error in value.Errors)
+                    {
+                        errors.Add(error.ErrorMessage);
+                    }
+                }
+                string errorMessage = string.Join("\n", errors);
+                return BadRequest(errorMessage);
+            }
+            return View(brand);
         }
+
+
         public async Task<IActionResult> Delete(int Id)
         {
-            // Tìm sản phẩm theo ID
-            var Brand = await _dataContext.Brands.FindAsync(Id);
-            if (Brand == null)
-            {
-                TempData["error"] = "Sản phẩm không tồn tại.";
-                return RedirectToAction("Index");
-            }
+            BrandModel brand = await _dataContext.Brands.FindAsync(Id);
 
-            try
-            {
-                // Xóa sản phẩm khỏi cơ sở dữ liệu
-                _dataContext.Brands.Remove(Brand);
-                await _dataContext.SaveChangesAsync();
-
-                TempData["success"] = "Sản phẩm đã được xóa thành công.";
-            }
-            catch (Exception ex)
-            {
-                // Xử lý lỗi khi xóa
-                TempData["error"] = $"Có lỗi xảy ra khi xóa sản phẩm: {ex.Message}";
-            }
-
+            _dataContext.Brands.Remove(brand);
+            await _dataContext.SaveChangesAsync();
+            TempData["success"] = "Thương hiệu đã được xóa thành công";
             return RedirectToAction("Index");
         }
     }
+
+
 }

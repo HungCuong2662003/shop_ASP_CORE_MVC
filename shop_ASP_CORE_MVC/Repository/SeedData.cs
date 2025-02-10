@@ -19,7 +19,7 @@ namespace shop_ASP_CORE_MVC.Repository
 					Name = "Macbook",
 					Slug = "macbook",
 					Description = "Macbook is a large product in the world",
-					status = 1
+					Status = 1
 				};
 
 				CategoryModel pcCategory = new CategoryModel
@@ -27,7 +27,7 @@ namespace shop_ASP_CORE_MVC.Repository
 					Name = "PC",
 					Slug = "pc",
 					Description = "PC is a large product in the world",
-					status = 1
+                    Status = 1
 				};
 
 				// Tạo dữ liệu mẫu cho BrandModel
@@ -36,7 +36,7 @@ namespace shop_ASP_CORE_MVC.Repository
 					Name = "Apple",
 					Slug = "apple",
 					Description = "Apple is a large brand in the world",
-					status = 1
+                    Status = 1
 				};
 
 				BrandModel samsungBrand = new BrandModel
@@ -44,7 +44,7 @@ namespace shop_ASP_CORE_MVC.Repository
 					Name = "Samsung",
 					Slug = "samsung",
 					Description = "Samsung is a large brand in the world",
-					status = 1
+                    Status = 1
 				};
 
 				// Thêm sản phẩm mẫu vào Products

@@ -1,4 +1,5 @@
-﻿@model LoginViewModel
+﻿@using shop_ASP_CORE_MVC.Models.ViewModels
+@model LoginViewModel
 @{
     ViewData["title"] = "Login";
 }
@@ -11,9 +12,9 @@
                 <form asp-action="Index" asp-controller="Account" method="post">
                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                     <div class="form-group">
-                        <label asp-for="UserName">Name</label>
-                        <input asp-for="UserName" class="form-control" />
-                        <span asp-validation-for="UserName" class="text-danger"></span>
+                        <label asp-for="Username">Name</label>
+                        <input asp-for="Username" class="form-control" />
+                        <span asp-validation-for="Username" class="text-danger"></span>
                     </div>
 
                     <div class="form-group">

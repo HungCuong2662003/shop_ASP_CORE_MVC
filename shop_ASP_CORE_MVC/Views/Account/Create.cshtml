@@ -1,42 +1,50 @@
-﻿@model UserModel
+﻿@using shop_ASP_CORE_MVC.Models
+@model UserModel
 @{
 	ViewData["title"] = "Register";
 }
-<section id="">
+
+<section id="form">
 	<!--form-->
 	<div class="container">
+		<div class="row">
 			
-			<div class="col-sm-8" col-sm-offset-1>
+			
+			<div class="col-sm-8 col-sm-offset-1">
 				<div class="signup-form">
 					<!--sign up form-->
 					<h2>New User Signup!</h2>
+					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 					<form asp-action="Create" asp-controller="Account">
-						
-							<div asp-validation-summary="ModelOnly" class="text-danger"></div>
-							<div class="form-group">
-								<label asp-for="UserName">Name</label>
-								<input asp-for="UserName" class="form-control" />
-								<span asp-validation-for="UserName" class="text-danger"></span>
-							</div>
-							<div class="form-group">
-								<label asp-for="Email">Email</label>
-								<input asp-for="Email" class="form-control" />
-								<span asp-validation-for="Email" class="text-danger"></span>
-							</div>
-							<div class="form-group">
-								<label asp-for="Password">Password</label>
-								<input asp-for="Password" class="form-control" />
-								<span asp-validation-for="Password" class="text-danger"></span>
-							</div>
-						<button type="submit" class="btn btn-default">Đăng kí</button>
+
+						<div class="form-group">
+							<label>Username</label>
+							<input asp-for="Username" class="form-control"> </input>
+							<span asp-validation-for="Username" class="text-danger"></span>
+						</div>
+
+						<div class="form-group">
+							<label>Email</label>
+							<input asp-for="Email" class="form-control"> </input>
+							<span asp-validation-for="Email" class="text-danger"></span>
+						</div>
+
+						<div class="form-group">
+							<label>Password</label>
+							<input asp-for="Password" class="form-control"> </input>
+							<span asp-validation-for="Password" class="text-danger"></span>
+						</div>
+
+						<button type="submit" class="btn btn-default">Create</button>
 					</form>
 				</div><!--/sign up form-->
 			</div>
 		</div>
 	</div>
-</section><!--/form-->
+</section>
+
 @section Scripts {
-    @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
-    }
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
 }

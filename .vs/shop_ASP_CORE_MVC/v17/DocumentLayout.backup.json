@@ -3,64 +3,566 @@
   "WorkspaceRootPath": "D:\\winform\\shop_ASP_CORE_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\order\\vieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\order\\vieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250209085210_Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shop_ASP_CORE_MVC\\Migrations\\20250209085210_Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\slidermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\slidermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\repository\\components\\brandsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\repository\\components\\brandsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\repository\\components\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\repository\\components\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\repository\\components\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\repository\\components\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\repository\\validation\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\repository\\validation\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\repository\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\repository\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\shared\\_filterproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\shared\\_filterproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\shared\\components\\brands\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\shared\\components\\brands\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\coupon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\coupon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093153_FirtMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shop_ASP_CORE_MVC\\Migrations\\20250201093153_FirtMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\brand\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\brand\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\realtime\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\realtime\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\home\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\home\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\home\\compare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\home\\compare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\account\\newpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\account\\newpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\account\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\account\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\account\\forgotpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\account\\forgotpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\statisticalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\statisticalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\wishlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\wishlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\services\\vnpay\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\services\\vnpay\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\viewmodels\\commonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\viewmodels\\commonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\viewmodels\\productdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\viewmodels\\productdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\CommonViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\CartItemViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\services\\vnpay\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\services\\vnpay\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\services\\momo\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\services\\momo\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\services\\momo\\imomoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\services\\momo\\imomoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CheckoutController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\BrandController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\controllers\\realtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\controllers\\realtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\RealtimeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\PaymentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\slider\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\slider\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\shipping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\shipping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\shared\\_notificationpatial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\shared\\_notificationpatial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\order\\vieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\order\\vieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\FooterViewComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\CategoriesViewComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\BrandsViewComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\SessionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\momo\\momocreatepaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\momo\\momocreatepaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\momo\\momoexecuteresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\momo\\momoexecuteresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\momo\\momooptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\momo\\momooptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\validation\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\validation\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\vnpay\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\vnpay\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\vnpay\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\vnpay\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\comparemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\comparemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\couponmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\couponmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\ratingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\ratingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\productquantitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\productquantitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\models\\shippingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\models\\shippingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\repository\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\repository\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|d:\\winform\\shop_asp_core_mvc\\shop_asp_core_mvc\\areas\\admin\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFE5998-1A8B-4C6C-B026-2F9DE9F05461}|shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC.csproj|solutionrelative:shop_asp_core_mvc\\areas\\admin\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Areas\\Admin\\Repository\\IEmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Areas\\Admin\\Repository\\EmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +572,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,124 +584,1051 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T09:40:49.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\CartController.cs",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAsAAAAAAAAAA==",
+              "Title": "20250209085210_Database.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250209085210_Database.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Migrations\\20250209085210_Database.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250209085210_Database.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Migrations\\20250209085210_Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:34:39.406Z",
+              "WhenOpened": "2025-02-09T08:52:11.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViewOrder.cshtml",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T09:17:12.165Z",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\appsettings.json",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\appsettings.json",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwCMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T07:16:09.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesViewComponent.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\Components\\CategoriesViewComponent.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Repository\\Components\\CategoriesViewComponent.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\Components\\CategoriesViewComponent.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Repository\\Components\\CategoriesViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:14:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandsViewComponent.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\Components\\BrandsViewComponent.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Repository\\Components\\BrandsViewComponent.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\Components\\BrandsViewComponent.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Repository\\Components\\BrandsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:14:30.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Program.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Program.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:51:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUserModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\AppUserModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\AppUserModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\AppUserModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\AppUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:34.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SliderModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\SliderModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\SliderModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\SliderModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\SliderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:51:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:06:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\Components\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Repository\\Components\\FooterViewComponent.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\Components\\FooterViewComponent.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Repository\\Components\\FooterViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:14:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:47:06.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileExtensionAttribute.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\Validation\\FileExtensionAttribute.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Repository\\Validation\\FileExtensionAttribute.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\Validation\\FileExtensionAttribute.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Repository\\Validation\\FileExtensionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:14:13.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Repository\\SessionExtensions.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\SessionExtensions.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Repository\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:13:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Repository\\DataContext.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\DataContext.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:11:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\SeedData.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Repository\\SeedData.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Repository\\SeedData.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Repository\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:13:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\appsettings.Development.json",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\appsettings.Development.json",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T07:17:17.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItemModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CartItemModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\CartItemModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CartItemModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\CartItemModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:55.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:00:41.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:07:36.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:07:13.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:06:58.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_FooterPartial.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\_FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Shared\\_FooterPartial.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\_FooterPartial.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Shared\\_FooterPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:06:45.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_FilterProducts.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\_FilterProducts.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Shared\\_FilterProducts.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\_FilterProducts.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Shared\\_FilterProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:06:42.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:06:30.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Brands\\Default.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Brands\\Default.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Brands\\Default.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Shared\\Components\\Brands\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:06:24.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Realtime\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Realtime\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Realtime\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Realtime\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:05:32.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:04:44.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Wishlist.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Wishlist.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Home\\Wishlist.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Wishlist.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Home\\Wishlist.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:04:41.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T07:58:44.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T07:58:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Add.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Add.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Add.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:26:53.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:27:13.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAADNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T02:36:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:27:33.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Coupon\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Coupon\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Coupon\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Coupon\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:28:11.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
               "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
               "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-01T03:03:00.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderDetailModel.cs",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderDetailModel.cs",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\OrderDetailModel.cs",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderDetailModel.cs",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\OrderDetailModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:11:37.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250201093153_FirtMigration.cs",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093153_FirtMigration.cs",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Migrations\\20250201093153_FirtMigration.cs",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093153_FirtMigration.cs",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Migrations\\20250201093153_FirtMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:31:53.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250201093054_FirtMigration.cs",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:30:54.223Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:28:40.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 37,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:04:36.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Home\\NotFound.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Home\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:04:32.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:04:27.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:04:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Compare.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Compare.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Home\\Compare.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Home\\Compare.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Home\\Compare.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:04:17.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:04:14.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Product\\Search.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Product\\Search.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Product\\Search.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Product\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T07:58:32.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:03:39.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NewPass.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\NewPass.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Account\\NewPass.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\NewPass.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Account\\NewPass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:03:23.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:03:06.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\History.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Account\\History.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\History.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Account\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T07:59:45.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ForgotPass.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\ForgotPass.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Account\\ForgotPass.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\ForgotPass.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Account\\ForgotPass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T07:59:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T07:57:42.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T07:56:30.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T07:50:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:46:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:10:19.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:16:25.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\UserModel.cs",
               "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\UserModel.cs",
               "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T09:23:42.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 52,
+              "Title": "StatisticalModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\StatisticalModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\StatisticalModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\StatisticalModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\StatisticalModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:23:16.605Z",
+              "WhenOpened": "2025-02-09T02:51:42.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 61,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:04:26.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:44:46.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAYwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:34:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "WishlistModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\WishlistModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\WishlistModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\WishlistModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\WishlistModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:51:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:45:26.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:46:40.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ShippingController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:47:41.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:46:34.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:47:28.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ViewModels\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ViewModels\\CartItemViewModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:29:02.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Services\\Vnpay\\VnPayService.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Services\\Vnpay\\VnPayService.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Services\\Vnpay\\VnPayService.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Services\\Vnpay\\VnPayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:02:00.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CommonViewModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ViewModels\\CommonViewModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ViewModels\\CommonViewModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ViewModels\\CommonViewModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ViewModels\\CommonViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:48:56.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ProductDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ViewModels\\ProductDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ViewModels\\ProductDetailsViewModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ViewModels\\ProductDetailsViewModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ViewModels\\ProductDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:05.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:00.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:29:33.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CommonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\CommonViewModel.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\CommonViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:29:29.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:28:56.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Libraries\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Libraries\\VnPayLibrary.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Libraries\\VnPayLibrary.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Libraries\\VnPayLibrary.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:25:58.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:25:48.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\CheckoutController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:57:45.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:49:25.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Services\\Vnpay\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Services\\Vnpay\\IVnPayService.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Services\\Vnpay\\IVnPayService.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Services\\Vnpay\\IVnPayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:01:52.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "MomoService.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Services\\Momo\\MomoService.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Services\\Momo\\MomoService.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Services\\Momo\\MomoService.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Services\\Momo\\MomoService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:01:03.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IMomoService.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Services\\Momo\\IMomoService.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Services\\Momo\\IMomoService.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Services\\Momo\\IMomoService.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Services\\Momo\\IMomoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:00:52.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Program.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:52:16.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:51:19.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAowNUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:46:50.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\LoginController.cs",
@@ -207,71 +1636,714 @@
               "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:23:15.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T09:23:15.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCYAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 86,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T03:04:26.025Z"
+              "WhenOpened": "2025-02-09T03:57:53.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ProductModel.cs",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ProductModel.cs",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ProductModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAcAAAACAAAAAAAAAA==",
+              "DocumentIndex": 85,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:11:49.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T03:58:41.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 88,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:57:11.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:57:04.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\CartController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAYwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:56:38.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:55:52.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:23:16.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:55:43.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:54:20.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "RealtimeController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\RealtimeController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\RealtimeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:52:44.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "RealtimeController.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\RealtimeController.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Controllers\\RealtimeController.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Controllers\\RealtimeController.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Controllers\\RealtimeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:52:36.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:51:09.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:49:28.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:48:53.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:29:46.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:29:44.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:29:30.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:29:22.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Edit.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Edit.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Edit.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Slider\\Edit.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:29:17.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:29:04.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "_NotificationPatial.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Shared\\_NotificationPatial.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Shared\\_NotificationPatial.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Shared\\_NotificationPatial.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Shared\\_NotificationPatial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:29:01.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:28:58.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:28:56.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:28:50.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:28:35.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:28:20.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:28:03.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T03:27:52.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T09:40:49.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ViewOrder.cshtml",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T09:17:12.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\FooterViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:15:05.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "CategoriesViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\CategoriesViewComponent.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\CategoriesViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:14:41.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "BrandsViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\BrandsViewComponent.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\Components\\BrandsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:14:26.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:14:06.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\SeedData.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:13:31.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\DataContext.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:12:45.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "FileExtensionAttribute.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Validation\\FileExtensionAttribute.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\Validation\\FileExtensionAttribute.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Validation\\FileExtensionAttribute.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\Validation\\FileExtensionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:11.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "MomoOptionModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Momo\\MomoOptionModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\Momo\\MomoOptionModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Momo\\MomoOptionModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\Momo\\MomoOptionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:25.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "MomoExecuteResponseModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Momo\\MomoExecuteResponseModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\Momo\\MomoExecuteResponseModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Momo\\MomoExecuteResponseModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\Momo\\MomoExecuteResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:21.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "MomoCreatePaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Momo\\MomoCreatePaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\Momo\\MomoCreatePaymentResponseModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Momo\\MomoCreatePaymentResponseModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\Momo\\MomoCreatePaymentResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:18.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "PaymentInformationModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Vnpay\\PaymentInformationModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\Vnpay\\PaymentInformationModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Vnpay\\PaymentInformationModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\Vnpay\\PaymentInformationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:37.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "PaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Vnpay\\PaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\Vnpay\\PaymentResponseModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Vnpay\\PaymentResponseModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\Vnpay\\PaymentResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:40.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\BrandModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\BrandModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:49:51.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\CartModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CartModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:48:04.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
               "Title": "CategoryModel.cs",
               "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CategoryModel.cs",
               "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\CategoryModel.cs",
               "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CategoryModel.cs",
               "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\CategoryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:11:45.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T09:11:45.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 129,
+              "Title": "CompareModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CompareModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\CompareModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CompareModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\CompareModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:50:33.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "CouponModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CouponModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\CouponModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\CouponModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\CouponModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:50:41.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:50:45.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:50:50.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "OrderDetailModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderDetailModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\OrderDetailModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderDetailModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\OrderDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:11:37.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "OrderInfo.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderInfo.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\OrderInfo.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderInfo.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\OrderInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:50:59.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\OrderModel.cs",
               "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\OrderModel.cs",
               "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\OrderModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:11:33.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T09:11:33.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
-              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
-              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
-              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T02:36:39.967Z"
+              "DocumentIndex": 136,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Paginate.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\Paginate.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\Paginate.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\Paginate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:11:58.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ProductModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:11:49.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "RatingModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\RatingModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\RatingModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\RatingModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\RatingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:51:30.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "ProductQuantityModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ProductQuantityModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ProductQuantityModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ProductQuantityModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ProductQuantityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:51:25.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "ShippingModel.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ShippingModel.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Models\\ShippingModel.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Models\\ShippingModel.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Models\\ShippingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:51:34.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Areas\\Admin\\Repository\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Areas\\Admin\\Repository\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:36:03.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Repository\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Repository\\IEmailSender.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Repository\\IEmailSender.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Repository\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:35:31.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Repository\\EmailSender.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Areas\\Admin\\Repository\\EmailSender.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Areas\\Admin\\Repository\\EmailSender.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Areas\\Admin\\Repository\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:35:16.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Areas\\Admin\\Repository\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\cuong\\Downloads\\ASP-Webbanhang-Net8-master\\ASP-Webbanhang-Net8-master\\Areas\\Admin\\Repository\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:35:02.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "20250201093054_FirtMigration.cs",
+              "DocumentMoniker": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs",
+              "RelativeDocumentMoniker": "shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs",
+              "ToolTip": "D:\\winform\\shop_ASP_CORE_MVC\\shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs",
+              "RelativeToolTip": "shop_ASP_CORE_MVC\\Migrations\\20250201093054_FirtMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:30:54.223Z"
             }
           ]
         }

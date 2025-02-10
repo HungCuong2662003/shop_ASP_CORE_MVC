@@ -4,17 +4,13 @@ namespace shop_ASP_CORE_MVC.Models
 {
 	public class UserModel
 	{
+
 		public int Id { get; set; }
-
-		[Required(ErrorMessage = "Vui lòng nhập Username")]
-		public string UserName { get; set; }
-
-		[Required(ErrorMessage = "Vui lòng nhập Email")]
-		[EmailAddress(ErrorMessage = "Email không hợp lệ")]
+		[Required(ErrorMessage = "Vui lòng nhập user name")]
+		public string Username { get; set; }
+		[Required(ErrorMessage = "Vui lòng nhập user email"), EmailAddress]
 		public string Email { get; set; }
-
-		[DataType(DataType.Password)]
-		[Required(ErrorMessage = "Vui lòng nhập Password")]
+		[DataType(DataType.Password), Required(ErrorMessage = "Vui lòng nhập password")]
 		public string Password { get; set; }
 	}
 }
